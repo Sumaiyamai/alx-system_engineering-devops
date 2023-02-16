@@ -1,2 +1,2 @@
 #!/bin/bas
--rwxr-xr--
+chmod u+-rwxr-xr-- hello
